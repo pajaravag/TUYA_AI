@@ -1,0 +1,9 @@
+Basado en la siguiente información:
+
+['Tarjeta Carulla Gold Mastercard', 'Tarjeta Carulla Mastercard Black', 'Tarjeta Club del Comerciante Mastercard', 'Tarjeta Viva Mastercard', 'Tarjeta Éxito', 'Tarjeta Éxito Digital Mastercard', 'Tarjeta Éxito Gold Mastercard', 'Tarjeta Éxito Mastercard', 'Tarjeta Éxito Pro Mastercard']
+
+Responde la siguiente pregunta de forma clara y concisa:
+
+¿Cuáles son los nombres de las tarjetas que tiene disponibles Tuya S.A.? Solo incluye las tarjetas que no estén relacionadas con el Comerciante.
+
+- El nombre de la tarjeta que no está relacionada con el Comerciante es "Tarjeta Carulla Gold Mastercard", "Tarjeta Carulla Mastercard Black", "Tarjeta Club del Comerciante Mastercard", "Tarjeta Viva Mastercard", "Tarjeta Éxito", "Tarjeta Éxito Digital Mastercard", "Tarjeta Éxito Gold Mastercard", "Tarjeta Éxito Mastercard", "Tarjeta Éxito Pro Mastercard".

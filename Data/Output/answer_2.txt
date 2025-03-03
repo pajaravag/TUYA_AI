@@ -1,0 +1,14 @@
+Basado en la siguiente información:
+
+{'Credicompras': {'Interest Rates': [], 'Insurance Policy': ['** Para créditos desembolsados a partir del 1 de abril de 2019. Póliza colectiva seguro Deudores para créditos desembolsados hasta 31 de marzo de 2019: $3.159 por millón desembolsado.', 'Póliza colectivaSeguro deudores', 'CrediComprasDirigidoTasaEfectiva Anual24,89805%Póliza colectivaSeguro deudores**$3.143CrediComprasLibre destinoTasaEfectiva Anual24,89805%Póliza colectivaSeguro deudores**$3.143CrediComprasBajo MontoTasaEfectiva Anual56,08602%Póliza colectivaSeguro deudores$3.143** Para créditos desembolsados a partir del 1 de abril de 2019. Póliza colectiva seguro Deudores para créditos desembolsados hasta 31 de marzo de 2019: $3.159 por millón desembolsado.Ver condicionado Póliza Colectiva de Seguro de Deudores.*Sujeto a actualización de tasas mensual de la Superintendencia Financiera de Colombia.', 'Póliza colectivaSeguro deudores**']}}
+
+Responde la siguiente pregunta de forma clara y concisa:
+
+¿Cuáles son los valores de la tasa de interés y póliza del producto Credicompras? 
+
+La respuesta es:
+
+* Tasa de interés: 24,89805%
+* Póliza: CrediComprasDirigidoTasaEfectiva Anual24,89805% y CrediComprasLibre destinoTasaEfectiva Anual24,89805%
+
+Ambas pólizas tienen la misma tasa de interés de 24,89805%. Sin embargo, las pólizas tienen diferentes tipos de tasas de interés y destinatarios. La póliza CrediComprasDirigidoTasaEfectiva Anual24,89805% se aplica a créditos desembolsados a partir del 1 de abril de 2019 y tiene un monto mínimo de $3.143. La póliza CrediComprasLibre destinoTasaEfectiva Anual24,89805% se aplica a créditos desembolsados hasta el 31 de marzo de 2019 y tiene un monto mínimo de $3.159. La póliza CrediComprasBajo MontoTasaEfectiva Anual56,08602% se aplica a créditos desembolsados a partir del 1 de abril de 2019 y tiene un monto mínimo de $3.143. Ambas pólizas tienen tasas de interés similares.
